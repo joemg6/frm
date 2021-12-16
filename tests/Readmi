@@ -1,0 +1,2 @@
+# Execute test
+./vendor/bin/phpunit ./tests/DBProcessTest.php --color

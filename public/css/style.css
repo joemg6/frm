@@ -1,0 +1,22 @@
+#tbl_cal > tbody > tr > td > p {   
+color: #3498DB;     
+    background-color: #fff;
+}   
+#tbl_cal > tbody > tr > td > p.row_cal {
+    text-align: center;
+    border-bottom:1px solid #ddd;
+    margin:0;
+    padding:8px 20px;
+}
+#tbl_cal > tbody > tr > th {
+    background: rgba(52,73,94,.94);
+    color: #fff;
+}
+#tbl_cal > tbody > tr > th > strong > p {
+    text-align: center;
+    margin: 0;
+}
+#tbl_cal > tbody > tr > td > p > a {
+    color: #3498DB;
+    font-weight: 600;
+}
